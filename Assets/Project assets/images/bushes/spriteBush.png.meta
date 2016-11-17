@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: 59161b4c1e665494e85198edafe553ee
+timeCreated: 1461124211
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spriteBush_0
+    21300002: spriteBush_1
+    21300004: spriteBush_2
+    21300006: spriteBush_3
+    21300008: spriteBush_4
+    21300010: spriteBush_5
+    21300012: spriteBush_6
+    21300014: spriteBush_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: spriteBush_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 462
+        width: 402
+        height: 306
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 201, y: 153}
+        - {x: -201, y: 153}
+        - {x: -201, y: -150}
+        - {x: 110, y: -150}
+        - {x: 110, y: -153}
+        - {x: 115, y: -153}
+        - {x: 115, y: -150}
+        - {x: 199, y: -150}
+        - {x: 201, y: -148}
+      - - {x: -85, y: -137}
+        - {x: -87, y: -134}
+        - {x: -91, y: -130}
+        - {x: -90, y: -125}
+        - {x: -93, y: -121}
+        - {x: -91, y: -120}
+        - {x: -89, y: -115}
+        - {x: -89, y: -111}
+        - {x: -91, y: -106}
+        - {x: -91, y: -105}
+        - {x: -86, y: -100}
+        - {x: -85, y: -97}
+        - {x: -85, y: -91}
+        - {x: -87, y: -86}
+        - {x: -90, y: -83}
+        - {x: -97, y: -80}
+        - {x: -103, y: -80}
+        - {x: -106, y: -81}
+        - {x: -110, y: -83}
+        - {x: -114, y: -80}
+        - {x: -119, y: -78}
+        - {x: -128, y: -78}
+        - {x: -132, y: -80}
+        - {x: -136, y: -79}
+        - {x: -145, y: -79}
+        - {x: -149, y: -81}
+        - {x: -154, y: -76}
+        - {x: -159, y: -73}
+        - {x: -163, y: -72}
+        - {x: -172, y: -72}
+        - {x: -175, y: -73}
+        - {x: -180, y: -75}
+        - {x: -187, y: -82}
+        - {x: -188, y: -85}
+        - {x: -188, y: -94}
+        - {x: -186, y: -97}
+        - {x: -193, y: -99}
+        - {x: -194, y: -101}
+        - {x: -193, y: 75}
+        - {x: -192, y: 74}
+        - {x: -187, y: 74}
+        - {x: -183, y: 75}
+        - {x: -179, y: 77}
+        - {x: -178, y: 76}
+        - {x: -170, y: 75}
+        - {x: -169, y: 74}
+        - {x: -158, y: 74}
+        - {x: -157, y: 75}
+        - {x: -151, y: 76}
+        - {x: -146, y: 78}
+        - {x: -142, y: 82}
+        - {x: -137, y: 82}
+        - {x: -129, y: 87}
+        - {x: -124, y: 87}
+        - {x: -123, y: 86}
+        - {x: -117, y: 86}
+        - {x: -114, y: 87}
+        - {x: -107, y: 90}
+        - {x: -103, y: 94}
+        - {x: -102, y: 97}
+        - {x: -102, y: 107}
+        - {x: -105, y: 112}
+        - {x: -109, y: 116}
+        - {x: -108, y: 121}
+        - {x: -111, y: 125}
+        - {x: -109, y: 126}
+        - {x: -107, y: 131}
+        - {x: -107, y: 135}
+        - {x: -109, y: 140}
+        - {x: -109, y: 141}
+        - {x: -105, y: 146}
+        - {x: 112, y: 146}
+        - {x: 112, y: 142}
+        - {x: 114, y: 139}
+        - {x: 107, y: 137}
+        - {x: 99, y: 129}
+        - {x: 97, y: 124}
+        - {x: 96, y: 120}
+        - {x: 96, y: 113}
+        - {x: 97, y: 112}
+        - {x: 93, y: 112}
+        - {x: 90, y: 111}
+        - {x: 83, y: 104}
+        - {x: 81, y: 99}
+        - {x: 81, y: 96}
+        - {x: 83, y: 90}
+        - {x: 88, y: 84}
+        - {x: 91, y: 83}
+        - {x: 96, y: 83}
+        - {x: 97, y: 79}
+        - {x: 98, y: 76}
+        - {x: 101, y: 73}
+        - {x: 104, y: 72}
+        - {x: 114, y: 72}
+        - {x: 118, y: 67}
+        - {x: 123, y: 65}
+        - {x: 126, y: 64}
+        - {x: 131, y: 64}
+        - {x: 135, y: 65}
+        - {x: 139, y: 67}
+        - {x: 140, y: 66}
+        - {x: 148, y: 65}
+        - {x: 149, y: 64}
+        - {x: 160, y: 64}
+        - {x: 161, y: 65}
+        - {x: 167, y: 66}
+        - {x: 172, y: 68}
+        - {x: 176, y: 72}
+        - {x: 181, y: 72}
+        - {x: 189, y: 77}
+        - {x: 191, y: 77}
+        - {x: 191, y: -76}
+        - {x: 188, y: -76}
+        - {x: 184, y: -78}
+        - {x: 180, y: -77}
+        - {x: 171, y: -77}
+        - {x: 167, y: -79}
+        - {x: 162, y: -74}
+        - {x: 157, y: -71}
+        - {x: 153, y: -70}
+        - {x: 144, y: -70}
+        - {x: 141, y: -71}
+        - {x: 136, y: -73}
+        - {x: 129, y: -80}
+        - {x: 128, y: -83}
+        - {x: 128, y: -92}
+        - {x: 130, y: -95}
+        - {x: 123, y: -97}
+        - {x: 115, y: -105}
+        - {x: 113, y: -110}
+        - {x: 112, y: -114}
+        - {x: 112, y: -121}
+        - {x: 113, y: -122}
+        - {x: 109, y: -122}
+        - {x: 106, y: -123}
+        - {x: 99, y: -130}
+        - {x: 97, y: -135}
+        - {x: 97, y: -138}
+        - {x: 99, y: -141}
+        - {x: -84, y: -141}
+    - name: spriteBush_1
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 466
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -120, y: -9}
+        - {x: -125, y: 19}
+        - {x: -34, y: 35}
+        - {x: 28, y: -8}
+        - {x: 144, y: 18}
+        - {x: 134, y: 56}
+        - {x: 200, y: 70}
+        - {x: 200, y: 150}
+        - {x: -200, y: 150}
+        - {x: -200, y: -44}
+        - {x: -175, y: -54}
+        - {x: -200, y: -106}
+        - {x: -200, y: -150}
+        - {x: -79, y: -150}
+        - {x: -41, y: -103}
+        - {x: -35, y: -29}
+        - {x: -46, y: -20}
+      - - {x: 200, y: 43}
+        - {x: 192, y: 49}
+        - {x: 116, y: 49}
+        - {x: 39, y: 10}
+        - {x: -41, y: -124}
+        - {x: -41, y: -150}
+        - {x: 92, y: -150}
+        - {x: 93, y: -147}
+        - {x: 98, y: -150}
+        - {x: 200, y: -150}
+    - name: spriteBush_2
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 468
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82, y: -150}
+        - {x: 197, y: -150}
+        - {x: 197, y: 150}
+        - {x: -200, y: 150}
+        - {x: -200, y: -150}
+        - {x: -89, y: -150}
+        - {x: -89, y: -146}
+        - {x: -83, y: -146}
+    - name: spriteBush_3
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 71
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77, y: -150}
+        - {x: 200, y: -150}
+        - {x: 200, y: 150}
+        - {x: -200, y: 150}
+        - {x: -200, y: -150}
+        - {x: -84, y: -150}
+        - {x: -84, y: -146}
+        - {x: -78, y: -146}
+    - name: spriteBush_4
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 65
+        width: 400
+        height: 300
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -77, y: -150}
+        - {x: 200, y: -150}
+        - {x: 200, y: 150}
+        - {x: -200, y: 150}
+        - {x: -200, y: -150}
+        - {x: -84, y: -150}
+        - {x: -84, y: -146}
+        - {x: -78, y: -146}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

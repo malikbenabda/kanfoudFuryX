@@ -1,0 +1,301 @@
+fileFormatVersion: 2
+guid: 83a7c8e99aee9be4989c32c1cedbb167
+timeCreated: 1461112711
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: snakes_0
+    21300002: snakes_1
+    21300004: snakes_2
+    21300006: snakes_3
+    21300008: snakes_4
+    21300010: snakes_5
+    21300012: snakes_6
+    21300014: snakes_7
+    21300016: snakes_8
+    21300018: snakes_9
+    21300020: snakes_10
+    21300022: snakes_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: snakes_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 133
+        width: 85
+        height: 59
+      alignment: 9
+      pivot: {x: 0.44444275, y: 0.51334006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.777634, y: 28.712936}
+        - {x: -33.777634, y: 28.712936}
+        - {x: -36.777634, y: 20.712936}
+        - {x: -36.777634, y: -4.2870636}
+        - {x: -31.777634, y: -13.287064}
+        - {x: -21.777634, y: -30.287064}
+        - {x: 30.222366, y: -30.287064}
+        - {x: 37.222366, y: -17.287064}
+        - {x: 37.222366, y: 4.7129364}
+        - {x: 25.222366, y: 9.712936}
+    - name: snakes_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 133
+        width: 85
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9.5, y: 29.5}
+        - {x: -36.5, y: 29.5}
+        - {x: -42.5, y: 23.5}
+        - {x: -42.5, y: -18.5}
+        - {x: -38.5, y: -26.5}
+        - {x: -26.5, y: -29.5}
+        - {x: 36.5, y: -29.5}
+        - {x: 42.5, y: -23.5}
+        - {x: 42.5, y: -2.5}
+    - name: snakes_2
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 133
+        width: 98
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 29.5}
+        - {x: -49, y: -21.5}
+        - {x: -44, y: -29.5}
+        - {x: 49, y: -29.5}
+        - {x: 49, y: 22.5}
+        - {x: 29, y: 29.5}
+    - name: snakes_3
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 134
+        width: 101
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37.5, y: -20}
+        - {x: 5.5, y: -12}
+        - {x: -27.5, y: 29}
+        - {x: -45.5, y: 29}
+        - {x: -50.5, y: 25}
+        - {x: -50.5, y: -6}
+        - {x: -38.5, y: -29}
+        - {x: 50.5, y: -29}
+        - {x: 50.5, y: -22}
+        - {x: 46.5, y: -20}
+    - name: snakes_4
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 133
+        width: 98
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 29.5}
+        - {x: -49, y: 29.5}
+        - {x: -49, y: -29.5}
+        - {x: 49, y: -29.5}
+        - {x: 49, y: -13.5}
+        - {x: 36, y: 9.5}
+    - name: snakes_5
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 134
+        width: 85
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -42.5, y: 29}
+        - {x: -42.5, y: -4}
+        - {x: -35.5, y: -29}
+        - {x: 39.5, y: -29}
+        - {x: 42.5, y: -28}
+        - {x: 42.5, y: 3}
+        - {x: -9.5, y: 29}
+    - name: snakes_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 65
+        width: 102
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 29}
+        - {x: -49, y: -9}
+        - {x: -49, y: -29}
+        - {x: 44, y: -29}
+        - {x: 51, y: -19}
+        - {x: 51, y: 27}
+        - {x: 47, y: 29}
+      - - {x: -51, y: 14}
+        - {x: -51, y: 11}
+        - {x: -50, y: 10}
+        - {x: -49, y: 10}
+        - {x: -46, y: 13}
+        - {x: -46, y: 15}
+        - {x: -49, y: 16}
+    - name: snakes_7
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 67
+        width: 99
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11.5, y: 29}
+        - {x: 3.5, y: 23}
+        - {x: -49.5, y: -6}
+        - {x: -49.5, y: -29}
+        - {x: 39.5, y: -29}
+        - {x: 49.5, y: -17}
+        - {x: 49.5, y: 20}
+        - {x: 44.5, y: 29}
+    - name: snakes_8
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 67
+        width: 85
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.5, y: 29}
+        - {x: 9.5, y: 29}
+        - {x: -42.5, y: -2}
+        - {x: -42.5, y: -29}
+        - {x: 27.5, y: -29}
+        - {x: 36.5, y: -24}
+        - {x: 42.5, y: -7}
+        - {x: 42.5, y: 19}
+    - name: snakes_9
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 67
+        width: 85
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10.5, y: 29}
+        - {x: -31.5, y: -3}
+        - {x: -31.5, y: -17}
+        - {x: -30.5, y: -19}
+        - {x: -23.5, y: -29}
+        - {x: 27.5, y: -29}
+        - {x: 42.5, y: 5}
+        - {x: 42.5, y: 24}
+        - {x: 34.5, y: 29}
+    - name: snakes_10
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 67
+        width: 85
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -0.5, y: 29}
+        - {x: -40.5, y: 12}
+        - {x: -42.5, y: 7}
+        - {x: -42.5, y: -29}
+        - {x: 42.5, y: -29}
+        - {x: 42.5, y: 29}
+    - name: snakes_11
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 67
+        width: 99
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3.5, y: 29}
+        - {x: -49.5, y: -12}
+        - {x: -49.5, y: -29}
+        - {x: 38.5, y: -29}
+        - {x: 49.5, y: -16}
+        - {x: 49.5, y: 17}
+        - {x: 41.5, y: 29}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

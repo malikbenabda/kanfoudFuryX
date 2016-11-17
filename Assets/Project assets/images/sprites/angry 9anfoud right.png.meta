@@ -1,0 +1,360 @@
+fileFormatVersion: 2
+guid: def4fb5b62e775b498c374fcf4e14642
+timeCreated: 1459570570
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: angry 9anfoud right_0
+    21300002: angry 9anfoud right_1
+    21300004: angry 9anfoud right_2
+    21300006: angry 9anfoud right_3
+    21300008: angry 9anfoud right_4
+    21300010: angry 9anfoud right_5
+    21300012: angry 9anfoud right_6
+    21300014: angry 9anfoud right_7
+    21300016: angry 9anfoud right_8
+    21300018: angry 9anfoud right_9
+    21300020: angry 9anfoud right_10
+    21300022: angry 9anfoud right_11
+    21300024: angry 9anfoud right_12
+    21300026: angry 9anfoud right_13
+    21300028: angry 9anfoud right_14
+    21300030: angry 9anfoud right_15
+    21300032: angry 9anfoud right_16
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: angry 9anfoud right_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 155
+        width: 322
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43.476875, y: 46.163666}
+        - {x: -47.476875, y: 45.163666}
+        - {x: -49.476875, y: 40.163666}
+        - {x: -49.476875, y: -39.836334}
+        - {x: -39.476875, y: -44.836334}
+        - {x: 35.523125, y: -44.836334}
+        - {x: 50.523125, y: -26.836334}
+        - {x: 50.523125, y: 42.163666}
+        - {x: 38.523125, y: 46.163666}
+    - name: angry 9anfoud right_1
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 118
+        width: 279
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.930023, y: 50.28589}
+        - {x: -42.930023, y: 26.285889}
+        - {x: -42.930023, y: -30.714111}
+        - {x: -25.930023, y: -49.71411}
+        - {x: 32.069977, y: -49.71411}
+        - {x: 44.069977, y: -21.714111}
+        - {x: 44.069977, y: 33.28589}
+        - {x: 37.069977, y: 50.28589}
+    - name: angry 9anfoud right_2
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 125
+        width: 283
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29.45343, y: 50.93844}
+        - {x: -43.45343, y: 20.938438}
+        - {x: -43.45343, y: -29.061562}
+        - {x: -34.45343, y: -50.06156}
+        - {x: 33.54657, y: -50.06156}
+        - {x: 44.54657, y: -14.061562}
+        - {x: 44.54657, y: 46.93844}
+        - {x: 29.54657, y: 50.93844}
+    - name: angry 9anfoud right_3
+      rect:
+        serializedVersion: 2
+        x: 1767
+        y: 112
+        width: 280
+        height: 321
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.134216, y: 50.44084}
+        - {x: -43.134216, y: 28.440842}
+        - {x: -43.134216, y: -18.559158}
+        - {x: -31.134216, y: -49.55916}
+        - {x: 36.865784, y: -49.55916}
+        - {x: 43.865784, y: -38.55916}
+        - {x: 43.865784, y: 49.44084}
+        - {x: 41.865784, y: 50.44084}
+    - name: angry 9anfoud right_4
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 128
+        width: 292
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.927612, y: 48.860962}
+        - {x: -44.927612, y: 40.860962}
+        - {x: -44.927612, y: -41.139038}
+        - {x: -34.927612, y: -48.139038}
+        - {x: 29.072388, y: -48.139038}
+        - {x: 46.072388, y: -36.139038}
+        - {x: 46.072388, y: 48.860962}
+    - name: angry 9anfoud right_5
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 193
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: angry 9anfoud right_6
+      rect:
+        serializedVersion: 2
+        x: 2857
+        y: 128
+        width: 306
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41.95105, y: 47.860962}
+        - {x: -46.95105, y: 32.860962}
+        - {x: -46.95105, y: -47.139038}
+        - {x: 48.04895, y: -47.139038}
+        - {x: 48.04895, y: 31.860962}
+        - {x: 36.04895, y: 47.860962}
+    - name: angry 9anfoud right_7
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 144
+        width: 332
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24.974487, y: 45.281082}
+        - {x: -43.974487, y: 41.281082}
+        - {x: -50.974487, y: 27.281082}
+        - {x: -50.974487, y: -42.718918}
+        - {x: -46.974487, y: -44.718918}
+        - {x: 36.025513, y: -44.718918}
+        - {x: 52.025513, y: -30.718918}
+        - {x: 52.025513, y: 39.281082}
+        - {x: 47.025513, y: 45.281082}
+    - name: angry 9anfoud right_8
+      rect:
+        serializedVersion: 2
+        x: 3972
+        y: 151
+        width: 335
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -51.5802, y: -25.566364}
+        - {x: -44.5802, y: -44.566364}
+        - {x: 43.4198, y: -44.566364}
+        - {x: 52.4198, y: -42.566364}
+        - {x: 52.4198, y: -0.5663643}
+        - {x: 46.4198, y: 37.433636}
+        - {x: 38.4198, y: 45.433636}
+        - {x: -34.5802, y: 45.433636}
+        - {x: -51.5802, y: 39.433636}
+    - name: angry 9anfoud right_9
+      rect:
+        serializedVersion: 2
+        x: 4522
+        y: 161
+        width: 325
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.95105, y: 45.00871}
+        - {x: -49.95105, y: 25.008709}
+        - {x: -49.95105, y: -27.991291}
+        - {x: -48.95105, y: -33.99129}
+        - {x: -38.95105, y: -43.99129}
+        - {x: 41.04895, y: -43.99129}
+        - {x: 51.04895, y: -28.991291}
+        - {x: 51.04895, y: 45.00871}
+    - name: angry 9anfoud right_10
+      rect:
+        serializedVersion: 2
+        x: 5088
+        y: 128
+        width: 309
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.598267, y: 43.860962}
+        - {x: 16.598267, y: 47.860962}
+        - {x: -31.401733, y: 47.860962}
+        - {x: -47.401733, y: 21.860962}
+        - {x: -47.401733, y: -28.139038}
+        - {x: -37.401733, y: -41.139038}
+        - {x: -19.401733, y: -47.139038}
+        - {x: 21.598267, y: -47.139038}
+        - {x: 48.598267, y: -38.139038}
+        - {x: 48.598267, y: 38.860962}
+        - {x: 28.598267, y: 44.860962}
+    - name: angry 9anfoud right_11
+      rect:
+        serializedVersion: 2
+        x: 5641
+        y: 144
+        width: 295
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31.649902, y: 47.781082}
+        - {x: -45.350098, y: 47.781082}
+        - {x: -45.350098, y: -30.218918}
+        - {x: -27.350098, y: -47.218918}
+        - {x: 28.649902, y: -47.218918}
+        - {x: 46.649902, y: -37.218918}
+        - {x: 46.649902, y: 14.781082}
+        - {x: 39.649902, y: 38.781082}
+    - name: angry 9anfoud right_12
+      rect:
+        serializedVersion: 2
+        x: 6226
+        y: 131
+        width: 286
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20.958252, y: 50.283485}
+        - {x: -43.958252, y: 26.283485}
+        - {x: -43.958252, y: -27.716515}
+        - {x: -34.958252, y: -49.716515}
+        - {x: 38.041748, y: -49.716515}
+        - {x: 45.041748, y: -46.716515}
+        - {x: 45.041748, y: 44.283485}
+        - {x: 29.041748, y: 50.283485}
+    - name: angry 9anfoud right_13
+      rect:
+        serializedVersion: 2
+        x: 3496
+        y: 135
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: angry 9anfoud right_14
+      rect:
+        serializedVersion: 2
+        x: 3589
+        y: 141
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: angry 9anfoud right_15
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 125
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: angry 9anfoud right_16
+      rect:
+        serializedVersion: 2
+        x: 6347
+        y: 125
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

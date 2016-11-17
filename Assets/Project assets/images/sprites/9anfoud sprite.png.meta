@@ -1,0 +1,314 @@
+fileFormatVersion: 2
+guid: 62ef64573268afb4b9d1f6038f4a7419
+timeCreated: 1459567702
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 9anfoud sprite_0
+    21300002: 9anfoud sprite_1
+    21300004: 9anfoud sprite_2
+    21300006: 9anfoud sprite_3
+    21300008: 9anfoud sprite_4
+    21300010: 9anfoud sprite_5
+    21300012: 9anfoud sprite_6
+    21300014: 9anfoud sprite_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 300
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 9anfoud sprite_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 301
+        height: 285
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -97.79394, y: -110}
+        - {x: -96.79394, y: -111}
+        - {x: -92.79394, y: -111}
+        - {x: -92.79394, y: -108}
+        - {x: -94.79394, y: -106}
+        - {x: -97.79394, y: -107}
+      - - {x: 89.20606, y: 111}
+        - {x: -70.79394, y: 111}
+        - {x: -87.79394, y: 97}
+        - {x: -109.79394, y: 45}
+        - {x: -116.79394, y: 22}
+        - {x: -116.79394, y: 21}
+        - {x: -105.79394, y: 12}
+        - {x: -98.79394, y: 8}
+        - {x: -116.79394, y: -2}
+        - {x: -116.79394, y: -64}
+        - {x: -71.79394, y: -111}
+        - {x: 68.20606, y: -111}
+        - {x: 117.20606, y: -38}
+        - {x: 117.20606, y: 39}
+        - {x: 102.20606, y: 103}
+      - - {x: 109.20606, y: -111}
+        - {x: 108.20606, y: -108}
+        - {x: 104.20606, y: -108}
+        - {x: 103.20606, y: -111}
+    - name: 9anfoud sprite_1
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 312
+        height: 289
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71.172714, y: 112.5}
+        - {x: -30.827286, y: 112.5}
+        - {x: -54.827286, y: 104.5}
+        - {x: -90.827286, y: 77.5}
+        - {x: -117.827286, y: 33.5}
+        - {x: -118.827286, y: 11.5}
+        - {x: -118.827286, y: -70.5}
+        - {x: -82.827286, y: -97.5}
+        - {x: -72.827286, y: -93.5}
+        - {x: -64.827286, y: -112.5}
+        - {x: 76.172714, y: -112.5}
+        - {x: 122.172714, y: -38.5}
+        - {x: 122.172714, y: 54.5}
+        - {x: 111.172714, y: 93.5}
+    - name: 9anfoud sprite_2
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 0
+        width: 299
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 104.706055, y: 92.5}
+        - {x: 78.706055, y: 106.5}
+        - {x: 52.706055, y: 112.5}
+        - {x: -38.293945, y: 112.5}
+        - {x: -83.293945, y: 88.5}
+        - {x: -114.293945, y: 29.5}
+        - {x: -114.293945, y: -60.5}
+        - {x: -105.293945, y: -75.5}
+        - {x: -73.293945, y: -112.5}
+        - {x: 69.706055, y: -112.5}
+        - {x: 103.706055, y: -59.5}
+        - {x: 116.706055, y: -29.5}
+        - {x: 116.706055, y: 32.5}
+    - name: 9anfoud sprite_3
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 0
+        width: 300
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -100.139404, y: -112.5}
+        - {x: -95.139404, y: -112.5}
+        - {x: -95.139404, y: -110.5}
+        - {x: -97.139404, y: -108.5}
+        - {x: -100.139404, y: -109.5}
+      - - {x: 95.860596, y: 112.5}
+        - {x: -30.139404, y: 112.5}
+        - {x: -38.139404, y: 93.5}
+        - {x: -38.139404, y: 90.5}
+        - {x: -38.139404, y: 92.5}
+        - {x: -42.139404, y: 100.5}
+        - {x: -53.139404, y: 106.5}
+        - {x: -95.139404, y: 99.5}
+        - {x: -116.139404, y: 65.5}
+        - {x: -116.139404, y: -82.5}
+        - {x: -83.139404, y: -112.5}
+        - {x: 63.860596, y: -112.5}
+        - {x: 96.860596, y: -61.5}
+        - {x: 115.860596, y: -46.5}
+        - {x: 115.860596, y: 83.5}
+    - name: 9anfoud sprite_4
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 0
+        width: 310
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 120.72418, y: 31.5}
+        - {x: 110.72418, y: 77.5}
+        - {x: 107.72418, y: 85.5}
+        - {x: 98.72418, y: 84.5}
+        - {x: 71.72418, y: 112.5}
+        - {x: -43.275818, y: 112.5}
+        - {x: -60.275818, y: 108.5}
+        - {x: -120.27582, y: 58.5}
+        - {x: -120.27582, y: -47.5}
+        - {x: -89.27582, y: -105.5}
+        - {x: -67.27582, y: -112.5}
+        - {x: 62.724182, y: -112.5}
+        - {x: 72.72418, y: -102.5}
+        - {x: 117.72418, y: -26.5}
+        - {x: 120.72418, y: -6.5}
+      - - {x: 53.724182, y: -112.5}
+        - {x: 53.724182, y: -110.5}
+        - {x: 50.724182, y: -109.5}
+        - {x: 48.724182, y: -112.5}
+      - - {x: 103.72418, y: -109.5}
+        - {x: 105.72418, y: -111.5}
+        - {x: 108.72418, y: -110.5}
+        - {x: 108.72418, y: -107.5}
+        - {x: 106.72418, y: -105.5}
+        - {x: 103.72418, y: -106.5}
+    - name: 9anfoud sprite_5
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 0
+        width: 314
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 122.22424, y: -5.5}
+        - {x: 122.22424, y: 23.5}
+        - {x: 112.22424, y: 88.5}
+        - {x: 81.22424, y: 108.5}
+        - {x: 70.22424, y: 112.5}
+        - {x: -38.775757, y: 112.5}
+        - {x: -72.77576, y: 96.5}
+        - {x: -95.77576, y: 67.5}
+        - {x: -112.77576, y: 38.5}
+        - {x: -121.77576, y: 34.5}
+        - {x: -121.77576, y: -69.5}
+        - {x: -74.77576, y: -112.5}
+        - {x: 63.224243, y: -112.5}
+        - {x: 75.22424, y: -103.5}
+        - {x: 117.22424, y: -30.5}
+      - - {x: 103.22424, y: -110.5}
+        - {x: 103.22424, y: -112.5}
+        - {x: 109.22424, y: -112.5}
+        - {x: 109.22424, y: -110.5}
+        - {x: 107.22424, y: -108.5}
+        - {x: 105.22424, y: -108.5}
+      - - {x: -98.77576, y: -109.5}
+        - {x: -97.77576, y: -112.5}
+        - {x: -94.77576, y: -112.5}
+        - {x: -92.77576, y: -110.5}
+        - {x: -93.77576, y: -107.5}
+        - {x: -96.77576, y: -107.5}
+    - name: 9anfoud sprite_6
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 0
+        width: 306
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 107.378784, y: 90.5}
+        - {x: 78.378784, y: 109.5}
+        - {x: 68.378784, y: 110.5}
+        - {x: 52.378784, y: 95.5}
+        - {x: 48.378784, y: 112.5}
+        - {x: -71.621216, y: 112.5}
+        - {x: -102.621216, y: 96.5}
+        - {x: -118.621216, y: 48.5}
+        - {x: -118.621216, y: -65.5}
+        - {x: -103.621216, y: -81.5}
+        - {x: -69.621216, y: -112.5}
+        - {x: 62.378784, y: -112.5}
+        - {x: 105.378784, y: -53.5}
+        - {x: 120.378784, y: -12.5}
+        - {x: 120.378784, y: 35.5}
+      - - {x: 107.378784, y: 39.5}
+        - {x: 109.378784, y: 37.5}
+        - {x: 112.378784, y: 38.5}
+        - {x: 112.378784, y: 41.5}
+        - {x: 110.378784, y: 43.5}
+        - {x: 107.378784, y: 42.5}
+    - name: 9anfoud sprite_7
+      rect:
+        serializedVersion: 2
+        x: 2325
+        y: 0
+        width: 291
+        height: 287
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.8636475, y: 111.5}
+        - {x: -4.8636475, y: 109.5}
+        - {x: -5.8636475, y: 101.5}
+        - {x: -5.8636475, y: 97.5}
+        - {x: -5.8636475, y: 99.5}
+        - {x: -4.8636475, y: 108.5}
+        - {x: -13.863647, y: 111.5}
+        - {x: -53.863647, y: 111.5}
+        - {x: -70.86365, y: 101.5}
+        - {x: -66.86365, y: 84.5}
+        - {x: -92.86365, y: 87.5}
+        - {x: -112.86365, y: 72.5}
+        - {x: -112.86365, y: -93.5}
+        - {x: -76.86365, y: -111.5}
+        - {x: 114.13635, y: -111.5}
+        - {x: 114.13635, y: 111.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
